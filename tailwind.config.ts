@@ -11,6 +11,7 @@ const config: Config = {
       backgroundImage: {
         "hero-airplane": "url('/mainBackgroundImage.jpg')",
         "hero-ship": "url('/possibleBackgroundImage.jpg')",
+        carousel1: "url('/carousel.jpg')",
       },
     },
   },

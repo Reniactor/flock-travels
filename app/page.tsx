@@ -12,7 +12,7 @@ export default function Home() {
         <Navbar />
         <Hero />
       </section>
-      <section className={`w-full min-h-screen flex items-center mt-10`}>
+      <section className={`w-full min-h-screen flex items-center`}>
         <FollowUpHero />
       </section>
     </>
